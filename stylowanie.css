@@ -1,0 +1,40 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    color: #003868;
+    margin: 6mm;
+}
+
+td {
+    padding: 20px;
+
+}
+
+tr {
+    border-bottom: 1px solid black;
+}
+
+table {
+    margin: 30px;
+    border: 3px solid black;
+    border-collapse: collapse;
+    background-color: lightslategrey;
+    width: 600px;
+    height: 400px;
+}
+
+.heading {
+    border-bottom: 1px solid black;
+    background-color: grey;
+    color: black;
+}
+
+.first {
+    border-right: 1px solid black;
+    background-color: grey;
+    color: black;
+}
+
+table tr:nth-child(0) {
+    background-color: slategrey;
+}
