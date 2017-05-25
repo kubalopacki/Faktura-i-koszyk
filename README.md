@@ -1,1 +1,3 @@
-# Faktura-i-koszyk
+Faktura-i-koszyk
+
+Just for learning
